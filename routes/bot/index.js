@@ -1,7 +1,7 @@
 var express = require('express');
 var bodyParser = require('body-parser');
 var cors = require('cors');
-var twitterBot = require('./../bot');
+var twitterBot = require('./../../bot');
 var status = require('http-status-codes');
 
 function _handleResponse(res) {
