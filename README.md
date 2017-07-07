@@ -1,4 +1,4 @@
 twitter-bot
 ====
 
-Basic twitter bot ExpressJS app.
+Basic twitter bot as a service deployed on Red Hat Mobile Application Platform.
